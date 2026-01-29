@@ -1,5 +1,8 @@
 # DevOps Capstone Template
-Microservice for managing customer accounts with REST API
+# devops-capstone-project
+This is a capstone project for developing a customer account microservice using Python Flask and REST APIs. 
+The project follows Agile methodologies and is managed using GitHub Projects.
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
