@@ -1,4 +1,3 @@
-# DevOps Capstone Template
 # devops-capstone-project
 This is a capstone project for developing a customer account microservice using Python Flask and REST APIs. 
 The project follows Agile methodologies and is managed using GitHub Projects.
